@@ -1,0 +1,13 @@
+# JSP (Java Server Pages)
+ * java 웹개발을 위한 스크립트 언어
+ * 서블릿엔진(like tomcat)내에서 java로 서블릿(100% java)으로 변환되는 스크립트
+ * 서블릿이 java코드에 html이 포함되어 있는 구조하면
+   jsp는 html에 java코드가 포함되어 있는 구조
+ * 스크립트릿(scriptlet_형태) : <% %>
+ * 출력태그 : <%=%>
+		   ex) <%="Hello~"%>
+ * JSP주석 : <%-- --%>
+ * 인코딩
+   - GET방식 : server.xml의 <Connector뒤에 URIEncoding="UTF-8" 추가
+   - POST방식 : 코드에 request.setCharacterEncoding("utf-8"); 추가
+ 
