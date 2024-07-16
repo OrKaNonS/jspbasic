@@ -1,0 +1,12 @@
+# jsp실습2 : 퀴즈프로그램
+
+* 파일 : quiz1.jsp ~ quiz5.jsp, quizResult.jsp
+* 기능 : quiz1 ~ quiz5까지 각각 한문제씩 출제 맞춘 결과를 quizResult에서 출력
+* 예시
+ quiz1.jsp : 바나나가 웃으면? – 바나나킥!
+ quiz2.jsp : 소금이 죽으면? – 죽염.
+ quiz3.jsp : 세상에서 가장 비싼 새는? - 백조 
+ quiz4.jsp : 세상에서 가장 빠른 닭은? - 후다닭
+ quiz5.jsp : 세상에서 가장 뜨거운 바다는? - 열바다
+ quizResult.jsp : 5/5   
+ 
