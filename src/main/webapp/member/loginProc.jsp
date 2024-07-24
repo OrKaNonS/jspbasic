@@ -4,7 +4,7 @@
 <%
 	request.setCharacterEncoding("utf-8");
 	String uid = request.getParameter("uid");
-	String upass = request.getParameter("upass");
+	String upw = request.getParameter("upass");
 	
 	
 	
